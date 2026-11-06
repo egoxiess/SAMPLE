@@ -1,0 +1,42 @@
+Customer_ID,Age,Gender,City,Product_Category,Number_of_Purchases,Total_Spending,Satisfaction
+C001,56.0,Male,Pasig,Home,10,14783,Fair
+C002,46.0,Female,Pasig,Home,7,10659,Good
+C003,32.0,Female,Manila,Electronics,12,22097,Fair
+C004,60.0,Female,Taguig,Home,9,13981,Good
+C005,25.0,Female,Taguig,Sports,7,7731,Poor
+C006,,Male,Quezon City,Home,14,18860,Poor
+C007,56.0,Female,Taguig,Electronics,1,3151,Poor
+C008,36.0,Male,Quezon City,Sports,1,2143,Excellent
+C009,40.0,male,Manila,Clothing,9,8908,Poor
+C010,28.0,Female,Pasig,Home,11,15000,Good
+C011,28.0,Female,Pasig,Electronics,14,25223,Poor
+C012,41.0,Male,Pasig,Clothing,9,8811,Fair
+C013,53.0,Female,Taguig,Clothing,4,4750,Fair
+C014,57.0,Male,Manila,Grocery,13,8488,Excellent
+C015,41.0,Female,Taguig,electronics,9,9873,Fair
+C016,20.0,Male,Taguig,Home,3,4970,Good
+C017,39.0,Female,Manila,Electronics,7,13434,Poor
+C018,19.0,,Manila,Grocery,6,4338,Excellent
+C019,41.0,Male,Manila,Sports,8,9179,Poor
+C020,47.0,Female,Manila,Grocery,11,6806,Poor
+C021,55.0,Male,Pasig,Sports,9,10577,Good
+C022,19.0,Female,Makati,Sports,14,14320,Fair
+C023,38.0,Female,Makati,Home,5,7912,Fair
+C024,50.0,Female,Manila,Sports,1,1960,Poor
+C025,29.0,Female,Makati,Grocery,3,2471,Excellent
+C026,39.0,Female,Makati,Sports,10,10622,Fair
+C027,42.0,Female,Manila,Home,12,17613,excellent
+C028,44.0,Female,Makati,Home,8,11710,Fair
+C029,59.0,Female,Taguig,Grocery,15,9894,Excellent
+C030,45.0,Female,Quezon City,Clothing,11,11313,Good
+C031,33.0,Female,Quezon City,Clothing,6,7253,Excellent
+C032,32.0,Female,Manila,Sports,8,9535,Good
+C033,20.0,Male,Pasig,Electronics,9,17139,Good
+C034,54.0,Male,Manila,Sports,4,6000,Excellent
+C035,24.0,Female,Pasig,Grocery,1,1237,Good
+C036,38.0,Female,Quezon City,Grocery,14,8021,Poor
+C037,26.0,Female,Manila,Grocery,1,1590,Good
+C038,56.0,Female,Taguig,Grocery,10,6678,Fair
+C039,35.0,Female,Makati,Grocery,4,3962,Excellent
+C040,21.0,Female,Pasig,Home,12,16277,Poor
+C012,41.0,Male,Pasig,Clothing,9,8811,Fair
